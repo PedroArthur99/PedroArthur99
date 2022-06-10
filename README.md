@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about Brazil
 - 📫 How to reach me: pedro15cg66@gmail.com
 
-### Linguagens e Ferramentas
+### Languages and Tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/><img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40" height="40"/>
 
 <div>
