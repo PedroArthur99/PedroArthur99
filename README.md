@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on EPAM Systems
+- 🔭 I’m currently working on MJV Technology
 - 🌱 I’m currently learning Microservices with Spring Boot
 - 💬 Ask me about Brazil
 - 📫 How to reach me: pedro15cg66@gmail.com
